@@ -6,6 +6,10 @@ I created this script as a quick means to populate remote machines dedicated for
 * https://thepiratebay10.org/
 * https://www.nyaa.net/
 
+## Example Arguments
+* https://www.nyaa.net/search?c=_&q=ergo+proxy
+* https://thepiratebay10.org/top/100
+
 ## Running The Script
 Clone
   ```
