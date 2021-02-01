@@ -7,8 +7,9 @@ I created this script as a quick means to populate remote machines dedicated for
 * https://www.nyaa.net/
 
 ## Example Arguments
-* https://www.nyaa.net/search?c=_&q=ergo+proxy
-* https://thepiratebay10.org/top/100
+* https://www.nyaa.net/search?c=_&q=ergo+proxy (a search query for ergo proxy)
+* https://thepiratebay10.org/top/100 (top 100 audio)
+* https://thepiratebay10.org/top/601 (top 100 ebooks)
 
 ## Running The Script
 Clone
