@@ -3,19 +3,19 @@ This script collects all magnet links on a specified web page and populates your
 I created this script as a quick means to populate machines dedicated for seeding torrents.
 
 ## Running The Script
-Clone the repository.
+Clone
   ```
   hg clone https://hg.sr.ht/~snarftop/sbgs
   ```
-Change directory.
+Change Directory
   ```
   cd sbgs
   ```
-Run the install script (Debian, Fedora, Arch) or install the prerequisites manually.
+Run Install Script
   ```
   sh install.sh
   ```  
-Run the germination script.
+Run Germination Script
   ```
   python3 germination.py
   ```
